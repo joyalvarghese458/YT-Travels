@@ -47,4 +47,9 @@ footer{
        
 
     }}
+    @media(max-width:380px){
+        .logo{
+            display: none;
+        }
+    }
 
